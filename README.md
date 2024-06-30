@@ -1,3 +1,8 @@
+# Check out the component :
+![Alt text](https://github.com/AkshaySingh2005/React-Sliding-Steps-Component/blob/main/public/Screenshot%202024-06-30%20115442.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
